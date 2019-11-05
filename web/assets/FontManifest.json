@@ -1,0 +1,50 @@
+[
+    {
+        "family": "Indie Flower",
+        "fonts": [
+            {
+                "asset": "fonts/IndieFlower.ttf"
+            }
+        ]
+    },
+    {
+        "family": "Roboto",
+        "fonts": [
+            {
+                "asset": "fonts/Roboto-Regular.ttf"
+            }
+        ]
+    },
+    {
+        "fonts": [
+            {
+                "asset": "fonts/MaterialIcons-Regular.ttf"
+            }
+        ],
+        "family": "MaterialIcons"
+    },
+    {
+        "family": "hiraminpro-w3",
+        "fonts": [
+            {
+                "asset": "hiraminpro-w3.otf"
+            }
+        ]
+    },
+    {
+        "family": "Montserrat-Regular",
+        "fonts": [
+            {
+                "asset": "Montserrat-Regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "Montserrat-Bold",
+        "fonts": [
+            {
+                "asset": "Montserrat-Bold.ttf"
+            }
+        ]
+    }
+]
